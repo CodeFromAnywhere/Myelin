@@ -1,10 +1,10 @@
 # From Idea to Hosted API
 
-## ⚠️⚠️⚠️ This is a Work in Progress. [Be notified](https://docs.google.com/forms/d/e/1FAIpQLSckizJWBSb9i-sGiqL6-19JwnhB09LKyWaFXO7bYKXvEFo2Ug/viewform?usp=pp_url&entry.593481734=https://x.com/) for early access! ⚠️⚠️⚠️
-
 Code like a pro, without the expertise.
 
 ![](devy.gif)
+
+## ⚠️⚠️⚠️ This is a Work in Progress. [Be notified](https://docs.google.com/forms/d/e/1FAIpQLSckizJWBSb9i-sGiqL6-19JwnhB09LKyWaFXO7bYKXvEFo2Ug/viewform?usp=pp_url&entry.593481734=https://x.com/) for early access! ⚠️⚠️⚠️
 
 Start chatting for free:
 
