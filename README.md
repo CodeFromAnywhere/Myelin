@@ -4,7 +4,7 @@
 
 Code like a pro, without the expertise.
 
-<!-- VIDEO HERE -->
+(Video coming soon)
 
 Start chatting for free:
 
@@ -17,7 +17,7 @@ Or use it on-the-go (premium):
 
 Or build with Cody:
 
-- [OpenAPI](https://cody.codefromanywhere.com/openapi.json)
+- [OpenAPI](public/openapi.json)
 - [Docs & Code](https://github.com/CodeFromAnywhere)
 
 ## How it works
