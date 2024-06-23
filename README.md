@@ -4,11 +4,11 @@
 
 Code like a pro, without the expertise.
 
-(Video coming soon)
+![](devy.mp4)
 
 Start chatting for free:
 
-- [ChatGPT](https://chatgpt.com/g/g-Gjix3kFre-vercel-code-writer)
+- [ChatGPT](https://chatgpt.com/g/g-Gjix3kFre)
 
 Or use it on-the-go (premium):
 
