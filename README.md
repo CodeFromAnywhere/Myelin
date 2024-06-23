@@ -4,7 +4,7 @@
 
 Code like a pro, without the expertise.
 
-![](devy.mp4)
+<video src="devy.mp4" controls />
 
 Start chatting for free:
 
