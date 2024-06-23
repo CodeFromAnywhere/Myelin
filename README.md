@@ -1,6 +1,6 @@
 # From Idea to Hosted API
 
-Code like a pro, without the expertise.
+Code like a pro, without the expertise. Devy uses RAG to retreive code documentation from many apis, writes perfect code, and hosts your solution on your own GitHub and Vercel Server.
 
 ![](devy.gif)
 
