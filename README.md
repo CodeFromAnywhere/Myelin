@@ -1,6 +1,6 @@
 # From Idea to Hosted API
 
-## ⚠️⚠️⚠️ This is a Work in Progress. Join me on this mission! ⚠️⚠️⚠️
+## ⚠️⚠️⚠️ This is a Work in Progress. [Be notified](#) for early access! ⚠️⚠️⚠️
 
 Code like a pro, without the expertise.
 
@@ -30,3 +30,5 @@ Or build with Cody:
 8. you login with vercel to make the project
 9. you login with actionschema to store your openapi
 10. ai asks another agent to test your API
+
+## Being made with ❤️ by [wkarsens](https://x.com/wkarsens) 🇳🇱
