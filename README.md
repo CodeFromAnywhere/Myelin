@@ -4,7 +4,7 @@
 
 Code like a pro, without the expertise.
 
-<video src="devy.mp4" controls />
+<video src="devy.mp4" controls></video>
 
 Start chatting for free:
 
