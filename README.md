@@ -11,6 +11,11 @@ Or use it on-the-go (premium):
 - [Whatsapp (+1 555 555 5555)](https://wa.me/1XXXXXXXXXX?text=I%20wanna%20build%20...)
 - [Phonecall (+1 555 555 5555)](tel:555-555-5555)
 
+Or build with Cody:
+
+- [OpenAPI](https://cody.codefromanywhere.com/openapi.json)
+- [Docs](https://cody.codefromanywhere.com)
+
 ## How it works
 
 1. you talk about your idea with AI
