@@ -1,0 +1,11 @@
+{
+  "$schema": "This could be used for deploying the services",
+  "data": [],
+  "agents": [
+    {
+      "id": "",
+      "instructions": "You code. Use the apis available to you.",
+      "openapiUrl": "https://cody.actionschema.com"
+    }
+  ]
+}
