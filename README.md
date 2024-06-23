@@ -1,4 +1,4 @@
-# From Idea to functioning API
+# From Idea to Hosted API
 
 Code like a pro, without the expertise.
 
