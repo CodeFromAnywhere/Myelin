@@ -1,23 +1,23 @@
 # From Idea to Hosted API
 
-Code like a pro, without the expertise. Devy uses RAG to retreive code documentation from many apis, writes perfect code, and hosts your solution on your own GitHub and Vercel Server.
+Code like a pro, without the expertise. Myelin uses RAG to retreive code documentation from many apis, writes perfect code, and hosts your solution on your own GitHub and Vercel Server.
 
 ![](devy.gif)
 
 ## ⚠️⚠️⚠️ This is a Work in Progress. [Be notified](https://docs.google.com/forms/d/e/1FAIpQLSckizJWBSb9i-sGiqL6-19JwnhB09LKyWaFXO7bYKXvEFo2Ug/viewform?usp=pp_url&entry.593481734=https://x.com/) for early access! ⚠️⚠️⚠️
 
-Start chatting for free:
+Start chatting for free (coming soon):
 
 - [ChatGPT](https://chatgpt.com/g/g-Gjix3kFre)
 
-Or use it on-the-go (premium):
+Or use it on-the-go (premium, coming soon):
 
 - [Whatsapp (+1 555 555 5555)](https://wa.me/1XXXXXXXXXX?text=I%20wanna%20build%20...)
 - [Phonecall (+1 555 555 5555)](tel:555-555-5555)
 
 Or build with Cody:
 
-- [OpenAPI](public/openapi.json)
+- [OpenAPI (coming soon)](public/openapi.json)
 - [Docs & Code](https://github.com/CodeFromAnywhere)
 
 ## How it works
