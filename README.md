@@ -6,6 +6,8 @@ Code like a pro, without the expertise. Myelin uses RAG to retreive code documen
 
 ## ⚠️⚠️⚠️ This is a Work in Progress. [Be notified](https://docs.google.com/forms/d/e/1FAIpQLSckizJWBSb9i-sGiqL6-19JwnhB09LKyWaFXO7bYKXvEFo2Ug/viewform?usp=pp_url&entry.593481734=https://x.com/) for early access! ⚠️⚠️⚠️
 
+The Ultimate GPT lets you login with GitHub/Vercel, then basically code any small project in natural language. Coding on the go via whatsapp/phonecall? No problem. Approve your prs later.
+
 Start chatting for free (coming soon):
 
 - [ChatGPT](https://chatgpt.com/g/g-Gjix3kFre)
@@ -34,3 +36,7 @@ Or build with Cody:
 10. ai asks another agent to test your API
 
 ## Being made with ❤️ by [wkarsens](https://x.com/wkarsens) 🇳🇱
+
+# Inspiration
+
+[![](fchollet.png)](https://x.com/fchollet/status/1803096195684012371)
